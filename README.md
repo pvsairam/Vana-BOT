@@ -2,7 +2,7 @@
 - Support multi account
 - Auto tap
 - Auto task
-- Register Vana Data Hero [here](https://t.me/VanaDataHeroBot/VanaDataHero?startapp=6944804952)
+- Register Vana Data Hero [here](https://t.me/VanaDataHeroBot/VanaDataHero?startapp=498361861)
 
 ## Installation
 
